@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/personal/Study/AWS/MLFlow-AWS/mlruns/0/c092305e43104fbb95841682511d3290/artifacts
+end_time: 1713676001818
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c092305e43104fbb95841682511d3290
+run_name: calm-boar-514
+run_uuid: c092305e43104fbb95841682511d3290
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713676001686
+status: 3
+tags: []
+user_id: uif46868
